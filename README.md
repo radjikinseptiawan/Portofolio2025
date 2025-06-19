@@ -23,15 +23,15 @@ this portofolio builded with the philosophy :
 
 ---
 ## 🛠️ Tech Stack
-### Frontend
--[React](https://www.react.dev)
--[Typescript](https://www.typescriptlang.org/)
--[TailwindCSS](https://tailwindcss.com/)
--[NextJS](https://nextjs.org/)
+###  💻 Frontend
+- [React](https://www.react.dev)
+- [Typescript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [NextJS](https://nextjs.org/)
 
-###Backend
--[Node.js](https://nodejs.org/)
--[Express](https://expressjs.com/)
--[Supabase](https://supabase.com/)
--[PostgreSQL](https://www.postgresql.org/)
+###  🛠️ Backend
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [Supabase](https://supabase.com/)
+- [PostgreSQL](https://www.postgresql.org/)
 
