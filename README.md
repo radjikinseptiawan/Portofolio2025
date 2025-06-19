@@ -6,9 +6,12 @@ this portofolio builded with the philosophy :
 
 ---
 ## 📂Project Structure
-├── 📁 client # Built with React + TypeScript
-├── 📁 server # Built with Node.js + Express
-└── 📄 README.md # You're here!
+
+├──  📁 client # Built with React + TypeScript
+
+├──  📁 server # Built with Node.js + Express
+
+└──  📄 README.md # You're here!
 ---
 
 
